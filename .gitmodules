@@ -1,0 +1,9 @@
+[submodule "kontrol"]
+	path = kontrol
+	url = https://github.com/runtimeverification/kontrol
+[submodule "optimism-ci"]
+	path = optimism-ci
+	url = https://github.com/runtimeverification/optimism-ci
+[submodule "_audits_Ethereum-optimism_pausability"]
+	path = _audits_Ethereum-optimism_pausability
+	url = https://github.com/runtimeverification/_audits_Ethereum-optimism_pausability

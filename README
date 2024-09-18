@@ -1,0 +1,4 @@
+This repository contains the following Runtime Verification projects that are submitted for Retro Funding 5, included as submodules:
+- [Kontrol Source Code](https://github.com/runtimeverification/kontrol)
+- [Optimism Pausability Engagement Artifacts](https://github.com/runtimeverification/optimism-ci)
+- [Optimism CI Setup](https://github.com/runtimeverification/optimism-ci)
